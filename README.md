@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Tech Club website**
+- 🔭 I’m currently working on **On an upcoming startup**
 
 - 🌱 I’m currently learning **React.js, and bootstrap**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nathanabebaw01@gmail.com**
 
-- ⚡ Fun fact **I saw a tutorial video to do this**
+- ⚡ Fun fact **My dog shits everywhere**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nati5956&label=Profile%20views&color=0e75b6&style=flat" alt="nati5956" /> </p>
 
