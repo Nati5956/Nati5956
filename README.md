@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **nathanabebaw01@gmail.com**
 
-- ⚡ Fun fact **My dog shits everywhere**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nati5956&label=Profile%20views&color=0e75b6&style=flat" alt="nati5956" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nati5956" alt="nati5956" /></a> </p>
